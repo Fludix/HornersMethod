@@ -1,0 +1,7 @@
+E:\Schule\Programming\Mathematics_HornersMethod_Fludix\HornersMethod\bin\Debug\HornersMethod.exe.config
+E:\Schule\Programming\Mathematics_HornersMethod_Fludix\HornersMethod\bin\Debug\HornersMethod.exe
+E:\Schule\Programming\Mathematics_HornersMethod_Fludix\HornersMethod\bin\Debug\HornersMethod.pdb
+E:\Schule\Programming\Mathematics_HornersMethod_Fludix\HornersMethod\obj\Debug\HornersMethod.csproj.AssemblyReference.cache
+E:\Schule\Programming\Mathematics_HornersMethod_Fludix\HornersMethod\obj\Debug\HornersMethod.csproj.CoreCompileInputs.cache
+E:\Schule\Programming\Mathematics_HornersMethod_Fludix\HornersMethod\obj\Debug\HornersMethod.exe
+E:\Schule\Programming\Mathematics_HornersMethod_Fludix\HornersMethod\obj\Debug\HornersMethod.pdb
